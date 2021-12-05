@@ -60,7 +60,7 @@
         "type":"multiple",
         "difficulty":"hard",
         "question":"The particulate pollutants is?",
-        "correct_answer":"Ozone",
+        "correct_answer":" Fly Ash",
         "incorrect_answers":["Ozone","Radon","Ethylene"]}
         ]
 }
