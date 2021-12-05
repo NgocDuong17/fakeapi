@@ -5,9 +5,9 @@
     {      
         "type":"multiple",
         "difficulty":"easy",
-        "question":"What is the scientific name for modern day humans?",
-        "correct_answer":"Homo Sapiens",
-        "incorrect_answers":["Homo Ergaster","Homo Erectus","Homo Neanderthalensis"]},
+        "question":"Which of the following statements is true about SMOG?",
+        "correct_answer":"SMOG is derived from both fog and smoke",
+        "incorrect_answers":["SMOG is derived from the fog","SMOG is derived from water vapour"," SMOG is derived from smoke"]},
     {
         "type":"multiple",
         "difficulty":"medium",
